@@ -2,11 +2,11 @@
 
 VSLD-FMR: Voting based on similarity of local displacement vectors feature matching refinement scheme 
 
+MATLAB implementation of the VSLD-FMR scheme for removing mismatches in the putative set of matches.
+
 Version Date: FEB 6, 2024
 
 Email: reza.pourshahabi@yahoo.com
-
-MATLAB implementation of the VSLD-FMR scheme for removing mismatches in the putative set of matches.
 
 The code is implemented using MATLAB R2022a.
 
